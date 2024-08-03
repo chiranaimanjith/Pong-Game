@@ -16,8 +16,8 @@ Features
 * Collision detection between ball, paddles, and walls.
 
 Installation
-1. Clone the repository: git clone https://github.com/yourusername/pong-game.git
-                      cd pong-game
+1. Clone the repository: https://github.com/chiranaimanjith/Pong-Game.git
+                         cd pong-game
 2. Compile the code:
     Navigate to the directory containing the source files and compile using the following command: javac PongGame.java
 3. Run the game:
