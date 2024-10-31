@@ -1,4 +1,4 @@
-Pong Game
+# Pong Game
 
 A simple implementation of the classic Pong game using Java and Swing for the graphical interface.
 
